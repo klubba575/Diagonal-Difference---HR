@@ -1,0 +1,11 @@
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.0\DiagonalDifference.exe
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.0\DiagonalDifference.deps.json
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.0\DiagonalDifference.runtimeconfig.json
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.0\DiagonalDifference.dll
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\bin\Debug\netcoreapp3.0\DiagonalDifference.pdb
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.0\DiagonalDifference.csprojAssemblyReference.cache
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.0\DiagonalDifference.dll
+C:\Users\Andy Wilder\Desktop\Code Practice\DiagonalDifference\DiagonalDifference\obj\Debug\netcoreapp3.0\DiagonalDifference.pdb
